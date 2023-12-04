@@ -1,4 +1,4 @@
-# excel
+
 # for forecasting via moments article
 https://github.com/diffent/excel/blob/main/forecasttestRoll7.xlsm
 
